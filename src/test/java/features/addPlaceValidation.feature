@@ -6,6 +6,6 @@ Feature: add place api validation
     Then API call is success with status code 200
     And "status" in response is "OK"
     Examples:
-      | name                | address                 |
-      | good house          | 1st good street         |
+      | name        | address         |
+      | sweet house | 1st good street |
 

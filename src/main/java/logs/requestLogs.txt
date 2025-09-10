@@ -18,7 +18,7 @@ Body:
     "accuracy": 50,
     "name": "sweet house",
     "phone_number": "(+91) 983 893 3937",
-    "address": "p koil street",
+    "address": "1st good street",
     "types": [
         "shoe park",
         "shop"
@@ -27,11 +27,11 @@ Body:
     "language": "French-IN"
 }
 Request method:	GET
-Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=a1e51366aa70abdfc9fb1b2b226ff337
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=b556f9056c3c0ebddd3054e36fccf93f
 Proxy:			<none>
 Request params:	<none>
 Query params:	key=qaclick123
-				place_id=a1e51366aa70abdfc9fb1b2b226ff337
+				place_id=b556f9056c3c0ebddd3054e36fccf93f
 Form params:	<none>
 Path params:	<none>
 Headers:		Accept=*/*
