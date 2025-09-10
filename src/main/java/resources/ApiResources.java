@@ -7,15 +7,15 @@ public enum ApiResources {
 	DELETE_PLACE_RESOURCE("/maps/api/place/delete/json"),
 	KEY("qaclick123");
 	
-	private final String resourcePath;
+	private final String resource;
 	
 
-	ApiResources(String resourcePath){
-		this.resourcePath=resourcePath;
+	ApiResources(String resource){
+		this.resource=resource;
 	}
 	
-	public String GetResourcePath() {
-		return resourcePath;
+	public String getResource() {
+		return resource;
 	}
 	
 }

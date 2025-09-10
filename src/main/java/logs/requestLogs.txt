@@ -16,9 +16,9 @@ Body:
         "lng": 33.427362
     },
     "accuracy": 50,
-    "name": "anbu illam",
+    "name": "sweet house",
     "phone_number": "(+91) 983 893 3937",
-    "address": "karuppu koil street",
+    "address": "p koil street",
     "types": [
         "shoe park",
         "shop"
@@ -26,3 +26,16 @@ Body:
     "website": "http://google.com",
     "language": "French-IN"
 }
+Request method:	GET
+Request URI:	https://rahulshettyacademy.com/maps/api/place/get/json?key=qaclick123&place_id=a1e51366aa70abdfc9fb1b2b226ff337
+Proxy:			<none>
+Request params:	<none>
+Query params:	key=qaclick123
+				place_id=a1e51366aa70abdfc9fb1b2b226ff337
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
